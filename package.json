@@ -1,0 +1,37 @@
+{
+  "name": "react-native-fb-like-button",
+  "version": "0.0.1",
+  "description": "React Native Facebook Like Button component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "react-component"
+  ],
+  "author": {
+    "name": "Kale McNaney",
+    "email": "kdmny30@gmail.com",
+    "url": "https://github.com/kdmny"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kdmny/react-native-fb-like-button/issues"
+  },
+  "homepage": "https://github.com/kdmny/react-native-fb-like-button",
+  "peerDependencies": {
+    "react-native": ">=0.10"
+  },
+  "maintainers": [
+    {
+      "name": "kdmny",
+      "email": "kdmny30@gmail.com"
+    }
+  ]
+}
