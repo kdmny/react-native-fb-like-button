@@ -4,6 +4,6 @@
  */
 'use strict';
 
-var NativeFbLikeBridge = require('NativeModules').FbLikeBridge;
+var NativeFbLikeBridge = require("react-native").NativeModules.FbLikeBridge;
 
 module.exports = NativeFbLikeBridge;
