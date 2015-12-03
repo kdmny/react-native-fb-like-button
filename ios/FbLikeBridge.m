@@ -4,7 +4,7 @@
 #import "RCTEventDispatcher.h"
 
 #import "FbLikeBridge.h"
-
+#import <objc/message.h>
 @interface FbLikeBridge() 
 
 @end
